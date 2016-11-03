@@ -1,4 +1,4 @@
-// The array method .map comes up often in React. 
+// The array method .map comes up often in ReactJS. 
 // We call .map on this array of strings, and the .map call returns a new array of <li>s.
 
 var React = require('react');
