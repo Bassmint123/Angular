@@ -69,6 +69,6 @@ ReactDOM.render(<ul>{peopleLIs}</ul>, document.getElementById('app'))
 // The following JSX expression:
 //
 var h1 = <h1>Hello world</h1>;
-// Can be rewritten without JSX, like this:
 
+// Can be rewritten without JSX, like this:
 var h1 = React.createElement("h1", null, "Hello, world");
