@@ -3,7 +3,7 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
 
-// We must use className instead of class for an attribute name
+// We must use className here instead of class for an attribute name
 var myDiv = <div className="big">I AM A BIG DIV</div>
 ReactDOM.render(myDiv, document.getElementById('app'));
 
