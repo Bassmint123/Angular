@@ -1,4 +1,4 @@
-// Working with conditionals in ReactJS
+// Working with conditionals and flow control in ReactJS
 // This works, because the words if and else are not injected 
 // in between JSX tags. The if statement is on the outside, and 
 // no JavaScript injection is necessary.
