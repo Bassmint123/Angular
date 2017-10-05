@@ -1,4 +1,4 @@
-// Sample react component
+// A sample react component
 import React from 'react';
 import ReactDOM from 'react-dom';
 
