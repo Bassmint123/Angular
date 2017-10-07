@@ -1,4 +1,4 @@
-// Coding in REACT JSX
+// Just some sample coding in REACT JSX
 
 var React = require('react');
 var ReactDOM = require('react-dom');
